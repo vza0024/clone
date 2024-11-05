@@ -1,0 +1,21 @@
+# Ignore Android Studio and IntelliJ files
+.idea/
+*.iml
+*.hprof
+
+# Ignore Gradle and build-related files
+.gradle/
+build/
+
+# Ignore local properties file (contains local system paths)
+local.properties
+
+# Ignore miscellaneous files
+.DS_Store
+*.log
+
+# Ignore generated files for APKs and other outputs
+app/build/
+
+# Ignore dependency caches
+caches/
